@@ -717,6 +717,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 .intro {
   height: 100%;
   color: #ffffff;
+  background-color: #46cad7;
   /*** Content ***/
   /*** Animate Effect on Load Slide ***/
   /*** Magic Mouse ***/
